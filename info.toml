@@ -1,0 +1,17 @@
+# INTRO
+
+[[exercises]]
+name = "reentrancy1"
+path = "exercises/reentrancy/reentrancy1.sol"
+mode = "test"
+hint = """
+No hints this time ;)
+"""
+
+[[exercises]]
+name = "txOrigin1"
+path = "exercises/txOrigin/txOrigin1.sol"
+mode = "test"
+hint = """
+No hints this time ;)
+"""
